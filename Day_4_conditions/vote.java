@@ -1,4 +1,4 @@
-package Day_4_condton;
+package Day_4_conditions;
 //2. Check if a person can vote (age >= 18).
 
 public class vote {

@@ -1,4 +1,4 @@
-package Day_4_condton;
+package Day_4_conditions;
 import java.util.Scanner;
 public class largestthreenum {
     
