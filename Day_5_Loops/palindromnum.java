@@ -23,4 +23,5 @@ public class palindromnum {
         System.out.println(original + "   is the not palindrome number");
     }
 }
+
 }
