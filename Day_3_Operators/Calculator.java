@@ -1,13 +1,17 @@
 package Day_3_Operators;
 
+import java.util.Scanner;
+
 public class Calculator {
      // 10. Make a simple calculator using operators.
      
     public static void main(String[] args) {
         
         System.out.println("------------------/CalCulator/-----------------: ");
-        double num1 = 10;
-        double num2 = 12;
+        Scanner sc = new Scanner(System.in);
+        
+        double num1 = sc.nextDouble();
+        double num2 = sc.nextDouble();
         char opeator = '+';
         double result;
 
@@ -28,6 +32,7 @@ public class Calculator {
             System.out.println("The default value");
         }
         
+        sc.close();
         
     }
 
