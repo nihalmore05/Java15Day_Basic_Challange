@@ -9,9 +9,9 @@ public class Temperature {
     public static void main(String[] args) {
         System.out.println("Enter The Celsius : ");
         Scanner sc = new Scanner(System.in);
-        double celsius = sc.nextDouble();
-        
-        double fahrenheit = (celsius*9/5)+32;
+        double celsius = sc.nextDouble(); // we can use double data_type
+
+        double fahrenheit = (celsius * 9 / 5) + 32; // The Formula we can used   
 
         System.out.println("The Fahreneheit : " + fahrenheit);
 
