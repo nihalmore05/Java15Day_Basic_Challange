@@ -1,5 +1,7 @@
 package Day_8_Arrays;
 
+//5. Print array in reverse order.
+
 public class revers_array {
     public static void main(String[] args) {
 
