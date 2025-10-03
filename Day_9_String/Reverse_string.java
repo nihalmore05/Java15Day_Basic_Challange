@@ -14,7 +14,7 @@ public class Reverse_string {
             reversed = reversed + Name.charAt(i);              // used charAt() method to get character at specific index.
             // System.out.print(Name.charAt(i));
         }
-        System.out.println("Original string is :--->  " + Name);       
+        System.out.println("Original string is :--->  " + Name);         
 
         System.out.println("Reversed string is :--->  " + reversed);           
 
